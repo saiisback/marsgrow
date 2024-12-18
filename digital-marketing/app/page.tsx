@@ -117,7 +117,7 @@ export default function Home() {
         <div className="flex items-center gap-x-4">
           <a href="tel:519400200" className="hidden lg:flex">
             <button className="px-4 py-2 rounded-md flex items-center gap-x-3">
-              (519)-400-200
+              +91 9099243544
             </button>
           </a>
 
@@ -153,7 +153,8 @@ export default function Home() {
             className="md:text-center
            text-xl md:text-2xl my-6 md:my-10 md:w-4/5 mx-auto text-gray-500"
           >
-            Schedule a call with us to discuss your project and get a quote in
+            Turn your passion into success with <b><u>Margros</u></b><br/>
+            Schedule a call with us to discuss your Marketing and get a quote in
             minutes
           </p>
 
@@ -367,7 +368,7 @@ export default function Home() {
           />
           <div className="flex flex-col gap-y-5 md:w-1/2">
             <h1 className="text-lg md:text-2xl ">
-              &quot;We&apos;ve been working with Bird for over 2 years and
+              &quot;We&apos;ve been working with Margros for over 2 years and
               they&apos;ve been amazing to work with. They&apos;ve helped us
               grow our business and we couldn&apos;t be happier with the
               results. &quot;
@@ -409,12 +410,12 @@ export default function Home() {
           </h1>
           <p className="text-left  text-xl  text-gray-500">519-200-5000</p>
           <p className="text-left  text-xl  text-gray-500">
-            admin@birdsoftware.ca
+            admin@Margrossoftware.ca
           </p>
         </div>
 
         <div className="flex md:justify-center gap-x-4 mt-10">
-          © 2025 Bird. All Rights Reserved.
+          © 2025 Margros. All Rights Reserved.
           <Link href="/" className="text-blue-500">
             Privacy Policy
           </Link>

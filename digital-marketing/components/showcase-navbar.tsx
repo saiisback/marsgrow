@@ -33,7 +33,7 @@ xl:w-4/5
       <Link href="/">
       <Image
         src="/logo/logo.webp"
-        alt="Bird Logo"
+        alt="Margros Logo"
         width={1000}
         height={1000}
         className="w-28"
@@ -67,7 +67,7 @@ xl:w-4/5
       <div className="flex items-center gap-x-4">
       <a href="tel:5193191562" className="hidden xl:flex">
               <button className="px-4 py-2  rounded-md flex items-center gap-x-3 ">
-            (519)-319-1562
+            91 9099243544
               </button>
             </a>
 
