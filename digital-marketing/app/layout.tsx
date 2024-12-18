@@ -7,7 +7,7 @@ const font = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Margros | Marketing agency",
-  description: "Grow your business with Margros, a design & development studio.",
+  description: "Grow your business with Margros, a Marketing agency.",
   openGraph: {
     images: [
       {
